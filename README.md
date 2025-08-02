@@ -4,7 +4,7 @@ A modern event management platform that provides tiered access to events based o
 
 ## 🚀 Live Demo
 
-**Deployed on Vercel:** [https://tier-event.vercel.app](https://tier-event.vercel.app)
+**Deployed on Vercel:** [https://tier-event-seven.vercel.app](https://tier-event-seven.vercel.app/)
 
 ## ✨ Features
 
